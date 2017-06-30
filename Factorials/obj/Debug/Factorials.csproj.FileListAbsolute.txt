@@ -1,0 +1,6 @@
+C:\Users\slage\Desktop\C# Bootcamp\Factorials\Factorials\bin\Debug\Factorials.exe.config
+C:\Users\slage\Desktop\C# Bootcamp\Factorials\Factorials\bin\Debug\Factorials.exe
+C:\Users\slage\Desktop\C# Bootcamp\Factorials\Factorials\bin\Debug\Factorials.pdb
+C:\Users\slage\Desktop\C# Bootcamp\Factorials\Factorials\obj\Debug\Factorials.csprojResolveAssemblyReference.cache
+C:\Users\slage\Desktop\C# Bootcamp\Factorials\Factorials\obj\Debug\Factorials.exe
+C:\Users\slage\Desktop\C# Bootcamp\Factorials\Factorials\obj\Debug\Factorials.pdb
